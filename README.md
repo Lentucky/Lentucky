@@ -1,5 +1,3 @@
-# 🏄‍♂️ Allen Cabansag
-
 **`Aspiring Digital Creator (Developer/Content Creator/Digital Artist)`**
 <!-- LinkedIn -->
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/allen-cabansag-80150a235/)
