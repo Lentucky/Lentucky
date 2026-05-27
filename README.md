@@ -1,35 +1,87 @@
-**`Aspiring Digital Creator (Developer/Content Creator/Digital Artist)`**
-<!-- LinkedIn -->
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/allen-cabansag-80150a235/)
-[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/profile.php?id=100084598453264)
-I'm currently an undergrad taking his Bachelor's in Computer Science, I aspire to become a future web developer and data analyist when it comes to the industry. But I like doing creative hobbies like editing and illustrating digital art.
+# Allen Cabansag
+
+**Full-stack developer building intelligent web applications with Laravel, Spring Boot & AI | Computer Science Graduate**
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-<br />
+## About Me
 
-#
+I'm a Computer Science graduate passionate about creating scalable web applications and integrating machine learning into real-world solutions. I specialize in full-stack development with Laravel and Spring Boot, and I'm keenly interested in exploring the intersection of web development and AI/ML technologies.
 
+When I'm not coding, I enjoy creative pursuits like digital design and illustration.
 
-#
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lentucky&show_icons=true&theme=gruvbox)
+---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+## 🔗 Connect With Me
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Allen's Coding Journey</h3></summary>
-   I started my coding journey in highschool as a curious child learning about web development, I continued to hone and learn more skills in other department such as database management in senior highschool, and learning about the blockchain and game development in college, Currently I am taking my Bachelor's in Computer Science to continue to build my portfolio and perfect my developing skills, picking up more languages along the way.
--->
-[website]: https://linktr.ee/Lentucky
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-cabansag-80150a235/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lentucky)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=globe&logoColor=white)](https://lentucky.github.io/cabansag-portfolio/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React
+
+### Backend Development
+- **Languages:** PHP, Python, Java
+- **Frameworks:** Laravel, Spring Boot
+- **Databases:** MySQL
+
+### Machine Learning & Data Analysis
+- **Libraries:** TensorFlow, VGG16
+- **Specializations:** Image Classification, Data Analysis
+
+### Tools & Version Control
+- Git, GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 1. [VGG-16 Dipterocarp Leaf and Bark Classifier](https://github.com/Lentucky/VGG-16-Dipterocarp-Leaf-and-Bark-Classifier)
+**Machine Learning | Image Classification**
+
+Thesis project implementing a deep learning model for automated species classification of dipterocarp trees using leaf and bark images. Leverages VGG16 architecture for high-accuracy botanical identification.
+
+**Tech:** Python, TensorFlow, VGG16, Deep Learning
+
+---
+
+### 2. [Spring Boot NBA Analytics](https://github.com/Lentucky/Spring-Boot-NBA-Analytics)
+**Backend Development | Data Analysis**
+
+RESTful API built with Spring Boot for analyzing NBA statistics and player performance data. Demonstrates backend development practices with data processing and integration with external APIs.
+
+**Tech:** Java, Spring Boot, REST APIs, Data Analysis
+
+---
+
+### 3. [Guess Loyalty Viewer](https://github.com/Lentucky/guessloyaltyviewer)
+**Full-stack Development | Web Application**
+
+A comprehensive web application for loyalty program management and analytics. Built with modern web development practices combining frontend and backend technologies.
+
+**Tech:** PHP, Laravel, JavaScript, MySQL
+
+---
+
+## 💡 What I'm Interested In
+
+- Building intelligent web applications that combine traditional backend architecture with machine learning
+- Exploring Laravel and Spring Boot ecosystems for scalable API development
+- Integrating LLMs into web applications for enhanced user experiences
+- Full-stack development with emphasis on clean, maintainable code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lentucky&show_icons=true&theme=gruvbox)
+
+---
+
+*Last updated: 2026*
